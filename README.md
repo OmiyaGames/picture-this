@@ -45,6 +45,7 @@ When the leader moves their arms up-and-down twice, followed by a Direction Gest
 #### Examples:
 
 When the leader
+
 1. moves their arms up-and-down twice,
 2. then points up,
 3. that stands for, "draw a straight line upwards."
@@ -56,6 +57,7 @@ When the leader moves their arms into an L-formation, then to a mirrored L-forma
 #### Examples:
 
 When the leader
+
 1. moves their arms into an L, then mirrored, then back twice,
 2. then points up,
 3. crosses their arm into an X,
@@ -69,6 +71,7 @@ If the leader needs to indicate to the other players that they need to continue 
 #### Examples:
 
 When the other players
+
 1. stops drawing a straight line to the right,
 2. but the leader is squatting up-and-down (possibly while still pointing to the right),
 3. that stands for, "keep drawing that straight line to the right.
@@ -80,6 +83,7 @@ When the leader claps, that indicates to the other players that they should stop
 #### Examples:
 
 When the other players
+
 1. keeps drawing a straight line to the right,
 2. and the leader claps,
 3. that stands for, "stop drawing the straight line in that direction."
@@ -91,6 +95,7 @@ If the leader needs to indicate to the other players that the angle of their cur
 #### Examples:
 
 When the other players
+
 1. draws a curve going from right to down, but needs to be curved more downwards,
 2. and the leader points both their arms down,
 3. that stands for, "curve the line more downwards."
