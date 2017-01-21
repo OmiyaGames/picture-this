@@ -16,7 +16,7 @@
 	1. This card cannot be revealed to the other players.
 	2. The leader must hold onto the diagram until the end of the drawing session.
 	3. So long as the card remains hidden, the leader may check it for reference at any time during the drawing session.
-3. The other players prepares a piece of paper, and places their pen’s tip at the center of the paper.
+3. Each of the other players prepares their own piece of paper, and places their pen’s tip at the center of the paper.
 4. The leader must inform the rest of the players that the art they need to draw can be drawn without lifting their pen from the paper.
 5. When ready, the leader uses the body gesture language described under "Gestures" to instruct the other players what to draw.
 	1. With exactly one exception (described below), the leader may not speak while instructing the rest of the players.
