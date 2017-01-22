@@ -70,7 +70,7 @@ The rest of the document will refer to this gesture as, “Direction Gesture.”
 
 #### Examples
 
-![Pointing up](https://bytebucket.org/OmiyaGames/ggj2017/raw/caee5496de718ceec19b3b6b3bab71f02608d3ad/gestures/direction-up.png) ![Pointing right](https://bytebucket.org/OmiyaGames/ggj2017/raw/caee5496de718ceec19b3b6b3bab71f02608d3ad/gestures/direction-right.png) ![Pointing down-left](https://bytebucket.org/OmiyaGames/ggj2017/raw/caee5496de718ceec19b3b6b3bab71f02608d3ad/gestures/down-left.png)
+![Pointing up](https://bytebucket.org/OmiyaGames/ggj2017/raw/default/gestures/direction-up.png) ![Pointing right](https://bytebucket.org/OmiyaGames/ggj2017/raw/default/gestures/direction-right.png) ![Pointing down-left](https://bytebucket.org/OmiyaGames/ggj2017/raw/default/gestures/down-left.png)
 
 * Pointing up stands for, “draw up”
 * Pointing right relative to the artist stands for, “draw right”
@@ -82,7 +82,7 @@ When the client swings their arms up-and-down twice, followed by a Direction Ges
 
 #### Example
 
-![Straight Line Upwards](https://bytebucket.org/OmiyaGames/ggj2017/raw/caee5496de718ceec19b3b6b3bab71f02608d3ad/gestures/straight-line.png) 
+![Straight Line Upwards](https://bytebucket.org/OmiyaGames/ggj2017/raw/default/gestures/straight-line.png) 
 
 When the client
 
@@ -96,7 +96,7 @@ When the client waves their arms into an L-formation, then to a mirrored L-forma
 
 #### Example
 
-![Curved Line Up-right](https://bytebucket.org/OmiyaGames/ggj2017/raw/caee5496de718ceec19b3b6b3bab71f02608d3ad/gestures/curve-line.png) 
+![Curved Line Up-right](https://bytebucket.org/OmiyaGames/ggj2017/raw/default/gestures/curve-line.png) 
 
 When the client
 
@@ -112,7 +112,7 @@ When the client claps, the artist should stop moving their pen and wait for the 
 
 #### Example
 
-![Clap](https://bytebucket.org/OmiyaGames/ggj2017/raw/caee5496de718ceec19b3b6b3bab71f02608d3ad/gestures/stop.png) 
+![Clap](https://bytebucket.org/OmiyaGames/ggj2017/raw/default/gestures/stop.png) 
 
 When the artist
 
@@ -126,7 +126,7 @@ If the client needs to indicate to the artist that they need to continue drawing
 
 #### Example
 
-![Squat](https://bytebucket.org/OmiyaGames/ggj2017/raw/caee5496de718ceec19b3b6b3bab71f02608d3ad/gestures/curve-more.png) 
+![Squat](https://bytebucket.org/OmiyaGames/ggj2017/raw/default/gestures/curve-more.png) 
 
 When the artist
 
@@ -144,6 +144,8 @@ If the client needs to indicate to the artist either
 the client can use two arms to point to the direction the artist needs to curve their line more sharply.
 
 #### Examples
+
+![Squat](https://bytebucket.org/OmiyaGames/ggj2017/raw/default/gestures/keep-going.png) 
 
 * When the artist
 
