@@ -3,7 +3,7 @@
 
 ## Objective
 
-2 players must team-up to create a beautiful artwork only one of the player, the client, knows. The client, however, can only use body gestures to communicate to their partner, the artist, what to draw.
+2 players must team-up to create a beautiful artwork only one of the player, the client, knows.  The client, however, can only use body gestures to communicate to their partner, the artist, what to draw.  Don't take too long, though; the team has a deadline to meet!
 
 ## Requirements
 
