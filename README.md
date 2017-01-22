@@ -19,7 +19,7 @@ Each game is split between 3 phases: planning, drawing, and judging phase.
 
 ### Planning Phase
 
-1. All the players should agree on the amount of time they should set the timer to during the Drawing Phase.  The recommended times are between 5 to 10 minutes.  **Do not start the timer yet!**
+1. All the players should agree on the amount of time they should set the timer to during the Drawing Phase.  The recommended times are between 5 to 10 minutes.  *Do not start the timer yet!*
 2. For each team, designate one player as the client, and the other as the artist.
 3. Each client will draw a random card from the deck of diagrams.
 	* This card cannot be revealed to any artist until the Judging Phase.
