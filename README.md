@@ -105,7 +105,7 @@ When the client waves their arms into an L-formation, then to a mirrored L-forma
 
 When the client
 
-1. 1. waves their arms into the **Start Curved Line Gesture**,
+1. waves their arms into the **Start Curved Line Gesture**,
 2. then points up,
 3. crosses their arm into an X,
 4. then points right relative to the artist,
@@ -125,21 +125,16 @@ the client can use 2 arms (rather than the typical 1) to convey the direction th
 ![Curve More Sharply](https://bytebucket.org/OmiyaGames/ggj2017/raw/default/gestures/curve-more.png) 
 
 * When the artist
-
 	1. draws a curve going from right to down, but needs to curve downwards more sharply,
 	2. and the client points their 2 arms down,
 	3. that stands for, "curve the line more downwards."
-
 * When the client
-
 	1. waves their arms into the **Start Curved Line Gesture**,
 	2. then points up with 2 arms,
 	3. crosses their arm into an X,
 	4. then points right with 1 arm relative to the artist,
 	5. that stands for, "draw a curved line that starts going upwards, then barely curves to the right."
-
 * When the client
-
 	1. waves their arms into the **Start Curved Line Gesture**,
 	2. then points up with 1 arm,
 	3. crosses their arm into an X,
