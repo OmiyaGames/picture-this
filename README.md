@@ -30,18 +30,19 @@ Each game is split between 3 phases: planning, drawing, and judging phase.
 
 ### Drawing Phase
 
-1. Each artist prepares their own sheet of paper, and places their pen’s tip at the center of the paper.
+1. Each artist prepares their own sheet of paper.
 	* Make sure all the artists are informed that the artwork the clients have in mind can be drawn without lifting their pen from the paper.
-2. The client needs to stand up in front of their artist, and face their direction.
+2. The client will let their artist know where they should place their pen’s tip as the starting point by pointing at their paper.
+3. When all the artists are ready, the clients needs to stand up in front of their artist, and face their direction.
 	* Make sure each client is provided enough space to swing their arms freely without hitting anyone while communicating to their artist.
-3. When everyone is ready, start the timer.
-4. Each client must use only the body gesture language described under the section, Gestures, to instruct their artist what to draw.
+4. When all the clients are ready, start the timer.
+5. Each client must use only the body gesture language described under the section, Gestures, to instruct their artist what to draw.
 	* With exactly 1 exception—described in step 5 below—the client may not speak while instructing their artist.
-5. The client can say either “close” or “done” to end their drawing session if the following conditions are met:
+6. The client can say either “close” or “done” to end their drawing session if the following conditions are met:
 	* If the last step in completing the artwork involves drawing a straight line from where the artist’s pen is at, back to the starting point (the center of the paper), the client can say, “close” to indicate the artist only needs to draw one more line, effectively finishing the artwork and ending their drawing session.
 	* Otherwise, the client can say, “done” whenever they feel like to end their drawing session early.
 	* Finishing early does not affect the timer in any way.
-6. While in the Drawing Phase, the artist must ask their client exactly 3 yes-or-no questions—no more, no less—that the client can answer, lest they risk losing during the Judging Phase.  The client must respond to each of them by nodding (yes) or shaking their head (no).
+7. While in the Drawing Phase, the artist must ask their client exactly 3 yes-or-no questions—no more, no less—that the client can answer, lest they risk losing during the Judging Phase.  The client must respond to each of them by nodding (yes) or shaking their head (no).
 	* Artists are not allowed to ask their client what the card’s diagram is, or anything hinting what the diagram could be.
 		* Not allowed: “is the diagram a heart?”
 		* Not allowed: “is the diagram similar to a vital organ?”
@@ -49,7 +50,7 @@ Each game is split between 3 phases: planning, drawing, and judging phase.
 		* Allowed: “do you want me to curve this line more downwards?”
 		* Allowed: “is my drawing close to what you’re envisioning?”
 		* Allowed: “are you feeling good today?”
-7. Drawing phase ends when either the timer goes off, or all teams are finished drawing.  When it does, all artists must put their pens down, and move on to the judging phase.
+8. Drawing phase ends when either the timer goes off, or all teams are finished drawing.  When it does, all artists must put their pens down, and move on to the judging phase.
 
 ### Judging Phase
 
