@@ -185,3 +185,8 @@ The list below provides advices for the player's own diagrams that, while not ma
 3. Diagrams that needs between 5 to 12 separate instructions are recommended.  To calculate the number of instructions, assume straight lines require 1 instruction, and circles require 4 instructions; 1 for each curve that makes the quarter of a circle.
 4. Diagrams that resemble a well-known shape or symbol are recommended.
 5. Last but not least, test the diagram with a friend, and see if it’s fun to draw.  Playtesting provides the ultimate answer to whether a diagram is successful or not!
+
+## Credits
+
+* Taro Omiya, Game Designer
+* Brian Shurtleff, Photographer
