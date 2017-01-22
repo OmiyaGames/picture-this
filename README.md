@@ -126,7 +126,7 @@ If the client needs to indicate to the artist that they need to continue drawing
 
 #### Example
 
-![Squat](https://bytebucket.org/OmiyaGames/ggj2017/raw/default/gestures/curve-more.png) 
+![Squat](https://bytebucket.org/OmiyaGames/ggj2017/raw/default/gestures/keep-going.png) 
 
 When the artist
 
@@ -145,7 +145,7 @@ the client can use two arms to point to the direction the artist needs to curve 
 
 #### Examples
 
-![Squat](https://bytebucket.org/OmiyaGames/ggj2017/raw/default/gestures/keep-going.png) 
+![Curve More Sharply](https://bytebucket.org/OmiyaGames/ggj2017/raw/default/gestures/curve-more.png) 
 
 * When the artist
 
