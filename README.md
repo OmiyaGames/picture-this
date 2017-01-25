@@ -97,7 +97,7 @@ When the client
 
 ### Curved Line Gesture
 
-When the client waves their arms into an L-formation, then to a mirrored L-formation twice, this indicates to the artist to start drawing a curved line from their pen’s current position (the rest of the document will refer to this as the **Start Curved Line Gesture**).  This gesture is followed by a **Direction Gesture**, then crossing the arms into an X, and finally a second **Direction Gesture** to indicate the starting and ending direction of the curve.
+When the client waves their arms into an L-formation, then to a mirrored L-formation twice, this indicates to the artist to start drawing a curved line from their penï¿½s current position (the rest of the document will refer to this as the **Start Curved Line Gesture**).  This gesture is followed by a **Direction Gesture**, then crossing the arms into an X, and finally a second **Direction Gesture** to indicate the starting and ending direction of the curve.
 
 #### Example
 
@@ -181,10 +181,10 @@ When the artist
 The list below provides advices for the player's own diagrams that, while not mandatory, improves the experience of this game:
 
 1. Diagrams have at least 1 straight line and 1 curved lines are recommended.
-2. If a diagram is composed entirely of straight lines, it is recommended to have at least 1 of those lines be at an angle that isn’t a multiple of 45 degrees.
+2. If a diagram is composed entirely of straight lines, it is recommended to have at least 1 of those lines be at an angle that isn't a multiple of 45 degrees.
 3. Diagrams that needs between 5 to 12 separate instructions are recommended.  To calculate the number of instructions, assume straight lines require 1 instruction, and circles require 4 instructions; 1 for each curve that makes the quarter of a circle.
 4. Diagrams that resemble a well-known shape or symbol are recommended.
-5. Last but not least, test the diagram with a friend, and see if it’s fun to draw.  Playtesting provides the ultimate answer to whether a diagram is successful or not!
+5. Last but not least, test the diagram with a friend, and see if it's fun to draw.  Playtesting provides the ultimate answer to whether a diagram is successful or not!
 
 ## Credits
 
