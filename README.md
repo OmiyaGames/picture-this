@@ -97,7 +97,7 @@ When the client
 
 ### Curved Line Gesture
 
-When the client waves their arms into an L-formation, then to a mirrored L-formation twice, this indicates to the artist to start drawing a curved line from their pen�s current position (the rest of the document will refer to this as the **Start Curved Line Gesture**).  This gesture is followed by a **Direction Gesture**, then crossing the arms into an X, and finally a second **Direction Gesture** to indicate the starting and ending direction of the curve.
+When the client waves their arms into an L-formation, then to a mirrored L-formation twice, this indicates to the artist to start drawing a curved line from their pen's current position (the rest of the document will refer to this as the **Start Curved Line Gesture**).  This gesture is followed by a **Direction Gesture**, then crossing the arms into an X, and finally a second **Direction Gesture** to indicate the starting and ending direction of the curve.
 
 #### Example
 
